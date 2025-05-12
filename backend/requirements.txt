@@ -1,0 +1,9 @@
+fastapi
+torch
+librosa
+soundfile
+transformers
+pydantic
+pandas
+uvicorn[standard]
+ 

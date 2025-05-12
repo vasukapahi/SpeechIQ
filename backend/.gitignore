@@ -1,0 +1,5 @@
+venv
+uploads
+run.txt
+train_data.csv
+__pycache__

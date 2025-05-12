@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.pyc
+*.pkl
+*.log
+venv/
+uploads/
