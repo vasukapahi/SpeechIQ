@@ -11,7 +11,7 @@ It explores both traditional and modern audio feature extraction techniques such
 - **Dataset**: [Fluent Speech Commands (FSC)](https://fluent.ai/research/fluent-speech-commands/) — 30,000+ utterances
 - **Models**:
   - MFCC + CNN-BiGRU
-  - Wav2Vec2 + CNN-BiGRU (achieved 95.5% validation accuracy)
+  - Wav2Vec2 + CNN-BiGRU
 - Comparison of traditional MFCC pipeline with modern pretrained Wav2Vec2 embeddings
 
 ---
@@ -35,21 +35,3 @@ It explores both traditional and modern audio feature extraction techniques such
 - Audio format: `.wav`, 16 kHz, single-channel
 
 Download link: [Fluent Speech Commands Dataset](https://fluent.ai/research/fluent-speech-commands/)
-
-
-## Getting Started
-
-Follow the steps below to set up and run the project locally:
-
-1. **Clone the Repository:**
-
-```bash
-git clone https://github.com/vasukapahi/SpeechIQ
-cd SpeechIQ
----
-2. **Install Dependencies:**
-
-```bash
-pip install -r requirements.txt
-
----
